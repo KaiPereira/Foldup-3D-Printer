@@ -1,3 +1,3 @@
 # Foldup-3D-Printer
 
-A 3D printer that folds up into a filament box and can hold it's own filament too :D 
+This is my folding, scissor lift, cross-gantry 3D printer I'm working on for Open Sauce 2026!
