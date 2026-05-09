@@ -28,3 +28,20 @@ I went through about 10 different concepts, and while some would definitely work
 ![[Pasted image 20260506173001.png]]
 
 So let's get into designing this thing!!
+
+## Setting up my CAD workspace and planning - 6 Hours
+
+I like to spend a lot of time thinking exactly how something will come together before putting it actually together, so the next thing I did was think about what parts I wanted to create the base out of and then build it up from them. 
+
+I initially wanted to go with an extrusion approach and even had a pretty good plan for it, but it had some major problems:
+- The extrusion was quite tall, so I wouldn't be able to mount the rails on the top faces of the extrusion, or much else so it would be really hard to build a stable printer
+- It would be difficult to mount electronics in such a compact frame, and it might be kind of difficult to cut and assemble the entire thing in such a small area.
+- Mostly rigidity concerns, I would be working against gravity instead of with it, and the space constrains were really bad.
+
+![[Pasted image 20260508181737.png]]
+
+So i decided to pivot to using 1/8" aluminum plate, just like the X printer, and I came up with a really solid plan for how I want it to work!
+
+![[Pasted image 20260508181944.png]]
+
+Nothing's labelled too well but essentially, this gives me a lot of height to work with so I can mount rails to the top and everything else.
