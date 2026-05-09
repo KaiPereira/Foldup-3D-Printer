@@ -17,15 +17,15 @@ My process was fairly simple:
 
 After many hours, I came up with my brain-child! A folding, scissor lift, cross/double cantilever 3D printer. It's essentially a combination of this cross-cantilever, and the X-printer:
 
-![[Pasted image 20260506172806.png]]
+![Pasted image 20260506172806.png](images/Pasted%20image%2020260506172806.png)
 
-![[Pasted image 20260506172814.png]]
+![Pasted image 20260506172814.png](images/Pasted%20image%2020260506172814.png)
 
 It took me a really long time to come up with this sort of concept, but I think it'll be insanely cool, a bit complicated and also sacrificing a bit of bed space, but worth it for the insanely cool project!! 
 
 I went through about 10 different concepts, and while some would definitely work better, I think this one is the coolest by far!
 
-![[Pasted image 20260506173001.png]]
+![Pasted image 20260506173001.png](images/Pasted%20image%2020260506173001.png)
 
 So let's get into designing this thing!!
 
@@ -38,17 +38,17 @@ I initially wanted to go with an extrusion approach and even had a pretty good p
 - It would be difficult to mount electronics in such a compact frame, and it might be kind of difficult to cut and assemble the entire thing in such a small area.
 - Mostly rigidity concerns, I would be working against gravity instead of with it, and the space constrains were really bad.
 
-![[Pasted image 20260508181737.png]]
+![Pasted image 20260508181737.png](images/Pasted%20image%2020260508181737.png)
 
 So i decided to pivot to using 1/8" aluminum plate, just like the X printer, and I came up with a really solid plan for how I want it to work!
 
-![[Pasted image 20260508181944.png]]
+![Pasted image 20260508181944.png](images/Pasted%20image%2020260508181944.png)
 
 Nothing's labelled too well but essentially, this gives me a lot of height to work with so I can mount rails to the top and everything else.
 
 Now that I had an actual plan for how I wanted to construct this thing, and a really good vision, I needed to get the basic components in. So I made dynamic models of rails, extrusions, added in bearing models, base plate, just some stuff that would be nice to be able to dynamically add into my model.
 
-![[Pasted image 20260508182204.png]]
+![Pasted image 20260508182204.png](images/Pasted%20image%2020260508182204.png)
 
 I did a bit of researching and also decided to use 608 bearings for the scissor lift because they're really accessible, commonly used and a good size. And I also figured out that I wanted to mount my bearings using shoulder bolts, because they would fit really nicely, and they're super strong and polished!
 
