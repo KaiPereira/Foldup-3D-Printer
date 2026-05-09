@@ -45,3 +45,11 @@ So i decided to pivot to using 1/8" aluminum plate, just like the X printer, and
 ![[Pasted image 20260508181944.png]]
 
 Nothing's labelled too well but essentially, this gives me a lot of height to work with so I can mount rails to the top and everything else.
+
+Now that I had an actual plan for how I wanted to construct this thing, and a really good vision, I needed to get the basic components in. So I made dynamic models of rails, extrusions, added in bearing models, base plate, just some stuff that would be nice to be able to dynamically add into my model.
+
+![[Pasted image 20260508182204.png]]
+
+I did a bit of researching and also decided to use 608 bearings for the scissor lift because they're really accessible, commonly used and a good size. And I also figured out that I wanted to mount my bearings using shoulder bolts, because they would fit really nicely, and they're super strong and polished!
+
+So with all that thinking out of the way, we can get a bit more into designing this thing! 
