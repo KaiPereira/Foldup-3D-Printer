@@ -77,3 +77,11 @@ I'm trying to stick to using M3 bolts for most of this project to minimize my BO
 And then after lots of revisions, I finally have a simple linear motion system for my scissor lift!
 
 ![[Pasted image 20260509184659.png]]
+
+And then finally, I can just repeat this linear motion system on the top to get my scissor lift motion down!
+
+![[Pasted image 20260509231229.png]]
+
+But this does pose an interesting problem now, because I can't mount the cross-cantilever rails to the top of the plate, or else the whole thing will be too tall, and if I mount it to the bottom of the plate, next to the scissor lift motion, it'll be shorter which also isn't ideal.
+
+So tomorrow, I'll have to figure out this tricky problem, and then I'll also hopefully add in the actual scissors too!
