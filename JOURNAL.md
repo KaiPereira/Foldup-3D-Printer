@@ -53,3 +53,27 @@ Now that I had an actual plan for how I wanted to construct this thing, and a re
 I did a bit of researching and also decided to use 608 bearings for the scissor lift because they're really accessible, commonly used and a good size. And I also figured out that I wanted to mount my bearings using shoulder bolts, because they would fit really nicely, and they're super strong and polished!
 
 So with all that thinking out of the way, we can get a bit more into designing this thing! 
+
+## Basic scissor lift CAD - 7 Hours
+
+Now that I have lots of the basic components like rails, bearings, and had an idea of the type of mounts I wanted to make, I could actually work on the scissor lift!
+
+The first thing I did, was I made a static mount for the 2 scissor lifts to be fixed to, and then a moving carriage, could move the second part of the scissor lift, allowing it to go up and down.I decided to use a heatset insert + shoulder bolt method because the tolerances are really tight for the bearing to attach onto and it can stiffly attach into the 3D printed block.
+
+![[Pasted image 20260509184419.png]]
+
+I've also decided to actively start a BOM, so that I didn't accidentally forget parts, and so I could have all the dimensions, concrete.
+
+![[Pasted image 20260509184459.png]]
+
+It wasn't just a smooth process towards creating my mount, but instead lots of revisions and reflecting, while constantly importing the stuff into my assembly and seeing how nicely it fit in.
+
+Next, I made the moving carriage mount for the scissor lift:
+
+![[Pasted image 20260509184557.png]]
+
+I'm trying to stick to using M3 bolts for most of this project to minimize my BOM, so you'll notice lots of these components use the same clearances.
+
+And then after lots of revisions, I finally have a simple linear motion system for my scissor lift!
+
+![[Pasted image 20260509184659.png]]
