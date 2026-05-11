@@ -85,3 +85,19 @@ And then finally, I can just repeat this linear motion system on the top to get 
 But this does pose an interesting problem now, because I can't mount the cross-cantilever rails to the top of the plate, or else the whole thing will be too tall, and if I mount it to the bottom of the plate, next to the scissor lift motion, it'll be shorter which also isn't ideal.
 
 So tomorrow, I'll have to figure out this tricky problem, and then I'll also hopefully add in the actual scissors too!
+
+## Scissor lift arms - 3 Hours
+
+Now that I have the scissor lift motion system, I can actually add in the arms! 
+
+I decided to keep the material on the arms to be that 1/8" aluminum plate I'm using for the base and top plate, to minimize my BOM, and also because it'll be perfectly fine and 4 plates shouldn't be bending too much. It's also much lighter, so there's less stress on the joints, which is very convenient!
+
+I did a basic model of the scissor arms first so I could get an idea of how they'll fit, and I think it turned out pretty nice!
+
+![[Pasted image 20260511104312.png]]
+
+This gives me about 11cm of Z motion, but I think I can optimize it even more for up to 12/13cm, which I think is pretty good, considering this printer is under 20x20cm! The tolerances are pretty tight and I used -0.001" for the 608 bearing so it's a nice press-fit, and I can thermally expand it if needed.
+
+This only gives me about a mm of spacing which is really tight though, but I think it'll be fine, and might honestly keep everything together, nice and rigidly.
+
+![[Pasted image 20260511104501.png]]
