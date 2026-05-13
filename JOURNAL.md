@@ -60,27 +60,27 @@ Now that I have lots of the basic components like rails, bearings, and had an id
 
 The first thing I did, was I made a static mount for the 2 scissor lifts to be fixed to, and then a moving carriage, could move the second part of the scissor lift, allowing it to go up and down.I decided to use a heatset insert + shoulder bolt method because the tolerances are really tight for the bearing to attach onto and it can stiffly attach into the 3D printed block.
 
-![[Pasted image 20260509184419.png]]
+![Pasted image 20260509184419.png](images/Pasted%20image%2020260509184419.png)
 
 I've also decided to actively start a BOM, so that I didn't accidentally forget parts, and so I could have all the dimensions, concrete.
 
-![[Pasted image 20260509184459.png]]
+![Pasted image 20260509184459.png](images/Pasted%20image%2020260509184459.png)
 
 It wasn't just a smooth process towards creating my mount, but instead lots of revisions and reflecting, while constantly importing the stuff into my assembly and seeing how nicely it fit in.
 
 Next, I made the moving carriage mount for the scissor lift:
 
-![[Pasted image 20260509184557.png]]
+![Pasted image 20260509184557.png](images/Pasted%20image%2020260509184557.png)
 
 I'm trying to stick to using M3 bolts for most of this project to minimize my BOM, so you'll notice lots of these components use the same clearances.
 
 And then after lots of revisions, I finally have a simple linear motion system for my scissor lift!
 
-![[Pasted image 20260509184659.png]]
+![Pasted image 20260509184659.png](images/Pasted%20image%2020260509184659.png)
 
 And then finally, I can just repeat this linear motion system on the top to get my scissor lift motion down!
 
-![[Pasted image 20260509231229.png]]
+![Pasted image 20260509231229.png](images/Pasted%20image%2020260509231229.png)
 
 But this does pose an interesting problem now, because I can't mount the cross-cantilever rails to the top of the plate, or else the whole thing will be too tall, and if I mount it to the bottom of the plate, next to the scissor lift motion, it'll be shorter which also isn't ideal.
 
@@ -94,19 +94,19 @@ I decided to keep the material on the arms to be that 1/8" aluminum plate I'm us
 
 I did a basic model of the scissor arms first so I could get an idea of how they'll fit, and I think it turned out pretty nice!
 
-![[Pasted image 20260511104312.png]]
+![Pasted image 20260511104312.png](images/Pasted%20image%2020260511104312.png)
 
 This gives me about 11cm of Z motion, but I think I can optimize it even more for up to 12/13cm, which I think is pretty good, considering this printer is under 20x20cm! The tolerances are pretty tight and I used -0.001" for the 608 bearing so it's a nice press-fit, and I can thermally expand it if needed.
 
 This only gives me about a mm of spacing which is really tight though, but I think it'll be fine, and might honestly keep everything together, nice and rigidly.
 
-![[Pasted image 20260511104501.png]]
+![Pasted image 20260511104501.png](images/Pasted%20image%2020260511104501.png)
 
 And now that I have my scissor arms in, let's actually add in all the nuts and bolts to hold together this mechanism together!
 
 I already had all the holes and counterbores for my socket head cap screws (which are really good for rigidity and vibrations), so it was a matter of just adjusting stuff so they fit in nicely with what I was ordering!
 
-![[Pasted image 20260512202150.png]]
+![Pasted image 20260512202150.png](images/Pasted%20image%2020260512202150.png)
 
 All the screws are just M3 socket head cap screws which makes the BOM nice and minimal, and they're just of sizes 10mm, 12mm and 25mm!
 
