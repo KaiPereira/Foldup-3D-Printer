@@ -86,7 +86,7 @@ But this does pose an interesting problem now, because I can't mount the cross-c
 
 So tomorrow, I'll have to figure out this tricky problem, and then I'll also hopefully add in the actual scissors too!
 
-## Scissor lift arms - 3 Hours
+## Scissor lift arms, nuts and bolts - 5 Hours
 
 Now that I have the scissor lift motion system, I can actually add in the arms! 
 
@@ -101,3 +101,14 @@ This gives me about 11cm of Z motion, but I think I can optimize it even more fo
 This only gives me about a mm of spacing which is really tight though, but I think it'll be fine, and might honestly keep everything together, nice and rigidly.
 
 ![[Pasted image 20260511104501.png]]
+
+And now that I have my scissor arms in, let's actually add in all the nuts and bolts to hold together this mechanism together!
+
+I already had all the holes and counterbores for my socket head cap screws (which are really good for rigidity and vibrations), so it was a matter of just adjusting stuff so they fit in nicely with what I was ordering!
+
+![[Pasted image 20260512202150.png]]
+
+All the screws are just M3 socket head cap screws which makes the BOM nice and minimal, and they're just of sizes 10mm, 12mm and 25mm!
+
+Now that I have this the actual linear motions parts for this mechanism, I need to make the moving parts, so let's do that next!
+
