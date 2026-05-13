@@ -1,8 +1,8 @@
 # Foldup-3D-Printer
 
-This is my folding, scissor lift, cross-gantry 3D printer I'm working on for Open Sauce 2026!
+This is my folding, scissor lift, cross-cantilever 3D printer I'm working on for Open Sauce 2026!
 
-<img width="2560" height="1318" alt="image" src="https://github.com/user-attachments/assets/07e510fd-656f-4b6f-9e9d-e49f45902789" />
+<img width="2560" height="1321" alt="image" src="https://github.com/user-attachments/assets/45f9923f-3741-4283-bfc6-eb4f0468dc35" />
 
 The finished project will essentially be a combination of these 2 printers:
 
