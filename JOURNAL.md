@@ -112,3 +112,13 @@ All the screws are just M3 socket head cap screws which makes the BOM nice and m
 
 Now that I have this the actual linear motions parts for this mechanism, I need to make the moving parts, so let's do that next!
 
+## Belts, idlers and drivers
+
+Now coming into this project, I had no clue how belts actually worked, or their standard sizes. So this led me down the rabbit holes of belts!
+
+The first thing is that 3D printers typically used GT belts and specifically GT2/GT1.5 belts which have their respective pitches. I've decided to use GT2 belts, because they provide more rigidity, being bigger.
+
+Next, there's the idlers and drivers. The idler simply sits fixed on one end so the belt can move freely and then the driver spins from a stepper to drive the whole belt!
+
+Finally, you need to attach the belt somehow [tbd]
+
