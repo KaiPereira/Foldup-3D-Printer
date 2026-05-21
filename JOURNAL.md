@@ -112,7 +112,7 @@ All the screws are just M3 socket head cap screws which makes the BOM nice and m
 
 Now that I have this the actual linear motions parts for this mechanism, I need to make the moving parts, so let's do that next!
 
-## Belts, idlers and drivers
+## Belts, idlers, drivers and planning
 
 Now coming into this project, I had no clue how belts actually worked, or their standard sizes. So this led me down the rabbit holes of belts!
 
@@ -124,5 +124,12 @@ Next, there's the idlers and drivers/timing pulley. The idler simply sits fixed 
 
 The driver is attached directly on to the shaft of the Nema 17 and then you can tighten it using the set screws in the driver. 
 
+Next, I wanted to plan out how I was actually going to put on the X/Y axis, so that it wouldn't intersect with any of my belts.
+
+I was on a flight during this process, and decided that mounting them perpendicular to the top plate would be best to minimize space, but I haven't 100% decided on it yet:
+
+![[Pasted image 20260520213309.png]]
+
+Now I also need to decide on what type of steppers I want to use!
 
 
