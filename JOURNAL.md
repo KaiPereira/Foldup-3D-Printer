@@ -120,7 +120,7 @@ The first thing is that 3D printers typically used GT belts and specifically GT2
 
 Next, there's the idlers and drivers/timing pulley. The idler simply sits fixed on one end so the belt can move freely and then the driver spins from a stepper to drive the whole belt!
 
-![[Pasted image 20260515104410.png]]
+![Pasted image 20260515104410.png](images/Pasted%20image%2020260515104410.png)
 
 The driver is attached directly on to the shaft of the Nema 17 and then you can tighten it using the set screws in the driver. 
 
@@ -128,7 +128,7 @@ Next, I wanted to plan out how I was actually going to put on the X/Y axis, so t
 
 I was on a flight during this process, and decided that mounting them perpendicular to the top plate would be best to minimize space, but I haven't 100% decided on it yet:
 
-![[Pasted image 20260520213309.png]]
+![Pasted image 20260520213309.png](images/Pasted%20image%2020260520213309.png)
 
 Now I also need to decide on what type of steppers I want to use!
 
