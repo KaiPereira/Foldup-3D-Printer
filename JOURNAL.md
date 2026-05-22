@@ -112,7 +112,7 @@ All the screws are just M3 socket head cap screws which makes the BOM nice and m
 
 Now that I have this the actual linear motions parts for this mechanism, I need to make the moving parts, so let's do that next!
 
-## Belts, idlers, drivers and planning
+## Belts, idlers, drivers and planning - 6 Hours
 
 Now coming into this project, I had no clue how belts actually worked, or their standard sizes. So this led me down the rabbit holes of belts!
 
@@ -131,5 +131,24 @@ I was on a flight during this process, and decided that mounting them perpendicu
 ![Pasted image 20260520213309.png](images/Pasted%20image%2020260520213309.png)
 
 Now I also need to decide on what type of steppers I want to use!
+
+But before I do that, I think it'll be a good idea to actually figure out how everything will fit onto the printer. I've come up with 2 main concepts that would both work fairly well.
+
+The first system is a fairly complicated, belt-only system:
+
+![[Pasted image 20260521215527.png]]
+
+This one has the advantages of looking cool, and probably being fairly rigid, but it's quite complicated because it uses perpendicular belts, and also takes up quite a lot of space.
+
+The next idea I came up with, with a friend is this leadscrew system:
+
+![[Pasted image 20260521215619.png]]
+
+This one has the advantage of having a really rigid, but slower base, that might be a bit harder to fit in. But the top doesn't have any driving electronics, which is a bit risky in case there's backlash. But it also does open up the opportunity to cleanly mount the X/Y electronics.
+
+I also got a suggestion from this friend to maybe double shear my scissor lift axes or to at least make them more rigid somehow, so I'll have to explore this some more later:
+
+![[Pasted image 20260521215817.png]]
+
 
 
