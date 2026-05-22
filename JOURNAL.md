@@ -136,19 +136,19 @@ But before I do that, I think it'll be a good idea to actually figure out how ev
 
 The first system is a fairly complicated, belt-only system:
 
-![[Pasted image 20260521215527.png]]
+![Pasted image 20260521215527.png](images/Pasted%20image%2020260521215527.png)
 
 This one has the advantages of looking cool, and probably being fairly rigid, but it's quite complicated because it uses perpendicular belts, and also takes up quite a lot of space.
 
 The next idea I came up with, with a friend is this leadscrew system:
 
-![[Pasted image 20260521215619.png]]
+![Pasted image 20260521215619.png](images/Pasted%20image%2020260521215619.png)
 
 This one has the advantage of having a really rigid, but slower base, that might be a bit harder to fit in. But the top doesn't have any driving electronics, which is a bit risky in case there's backlash. But it also does open up the opportunity to cleanly mount the X/Y electronics.
 
 I also got a suggestion from this friend to maybe double shear my scissor lift axes or to at least make them more rigid somehow, so I'll have to explore this some more later:
 
-![[Pasted image 20260521215817.png]]
+![Pasted image 20260521215817.png](images/Pasted%20image%2020260521215817.png)
 
 
 
