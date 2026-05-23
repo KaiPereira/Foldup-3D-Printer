@@ -152,3 +152,12 @@ I also got a suggestion from this friend to maybe double shear my scissor lift a
 
 
 
+## Actually assembling the vision
+
+Now that I've created drawings of where I want to position the electronics, I need to functionally place them in to see if everything will work!
+
+The first thing I got in was the base:
+
+![[Pasted image 20260522221338.png]]
+
+Doing something like this, will allow me to maximize the motion I can have for my Z, and also make it pretty rigid! I think leadscrews will be significantly better than belts for this, especially considering that the whole system isn't constantly moving up and down, creating backlash.  
