@@ -161,3 +161,9 @@ The first thing I got in was the base:
 ![[Pasted image 20260522221338.png]]
 
 Doing something like this, will allow me to maximize the motion I can have for my Z, and also make it pretty rigid! I think leadscrews will be significantly better than belts for this, especially considering that the whole system isn't constantly moving up and down, creating backlash.  
+
+Next I need to assemble the X/Y axes! I want to do something like this:
+
+![[Pasted image 20260523164039.png]]
+
+But, I'm worried that the steppers on the top are going to intersect the leadscrews on the bottom, so I might have to move the steppers upwards, or switch to leadscrews and flip the steppers to be pointing towards the end!
