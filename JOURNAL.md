@@ -152,7 +152,7 @@ I also got a suggestion from this friend to maybe double shear my scissor lift a
 
 
 
-## Actually assembling the vision
+## Actually assembling the vision - 8 Hours
 
 Now that I've created drawings of where I want to position the electronics, I need to functionally place them in to see if everything will work!
 
@@ -167,3 +167,11 @@ Next I need to assemble the X/Y axes! I want to do something like this:
 ![[Pasted image 20260523164039.png]]
 
 But, I'm worried that the steppers on the top are going to intersect the leadscrews on the bottom, so I might have to move the steppers upwards, or switch to leadscrews and flip the steppers to be pointing towards the end!
+
+Anyways, I spent wayyy more time and actually fully fleshed out the motion system after quite a bit of iteration!
+
+![[Pasted image 20260524180839.png]]
+
+Every single axis is leadscrews because they're the most space efficient, and I think it'll make all the axes really rigid which is super important for a flimsy, folding printer!  
+
+This is just a mockup of the whole things but it works in theory, and now I just have to properly attach everything! 
