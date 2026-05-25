@@ -1,4 +1,4 @@
-# Foldup-3D-Printer
+# Foldup 3D Printer
 
 This is my folding, scissor lift, cross-cantilever 3D printer I'm working on for Open Sauce 2026!
 
