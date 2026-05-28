@@ -2,7 +2,7 @@
 
 This is my folding, scissor lift, cross-cantilever 3D printer I'm working on for Open Sauce 2026!
 
-<img width="2560" height="1318" alt="image" src="https://github.com/user-attachments/assets/0b13919d-2f59-4d2d-ae12-87abaea3c816" />
+<img width="2560" height="1320" alt="image" src="https://github.com/user-attachments/assets/052372c8-e9e8-484a-ac97-c091c0a9cad5" />
 
 The finished project will essentially be a combination of these 2 printers:
 
