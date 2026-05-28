@@ -152,7 +152,7 @@ I also got a suggestion from this friend to maybe double shear my scissor lift a
 
 
 
-## Actually assembling the vision - 8 Hours
+## Actually assembling the vision - 6 Hours
 
 Now that I've created drawings of where I want to position the electronics, I need to functionally place them in to see if everything will work!
 
@@ -175,3 +175,23 @@ Anyways, I spent wayyy more time and actually fully fleshed out the motion syste
 Every single axis is leadscrews because they're the most space efficient, and I think it'll make all the axes really rigid which is super important for a flimsy, folding printer!  
 
 This is just a mockup of the whole things but it works in theory, and now I just have to properly attach everything! 
+
+## Properly Mounting Everything - 5 Hours
+
+Now that I had everything laid out, I can mount it to the plates. The main things I need to do is create brackets for the motors that will keep them rigidly mounted on a very small profile.
+
+I first created this Nema 14 mount:
+
+![[Pasted image 20260528091132.png]]
+
+And then I created the Nema 11 mount:
+
+![[Pasted image 20260528091159.png]]
+
+After a bit of trial and error, I got everything nicely mounted on:
+
+![[Pasted image 20260528091228.png]]
+
+I still have the X/Y axes to rigid mount, but those require making mounts that'll also be fixed to the leadscrews which is going to be a whole thing to do, so I want to get everything nicely fitted before getting to that! 
+
+The vision is really coming together though, but this is still a pretty rough assembly that needs some tuning on the sizes and spacings.
