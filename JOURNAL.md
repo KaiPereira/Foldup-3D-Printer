@@ -158,19 +158,19 @@ Now that I've created drawings of where I want to position the electronics, I ne
 
 The first thing I got in was the base:
 
-![[Pasted image 20260522221338.png]]
+![Pasted image 20260522221338.png](images/Pasted%20image%2020260522221338.png)
 
 Doing something like this, will allow me to maximize the motion I can have for my Z, and also make it pretty rigid! I think leadscrews will be significantly better than belts for this, especially considering that the whole system isn't constantly moving up and down, creating backlash.  
 
 Next I need to assemble the X/Y axes! I want to do something like this:
 
-![[Pasted image 20260523164039.png]]
+![Pasted image 20260523164039.png](images/Pasted%20image%2020260523164039.png)
 
 But, I'm worried that the steppers on the top are going to intersect the leadscrews on the bottom, so I might have to move the steppers upwards, or switch to leadscrews and flip the steppers to be pointing towards the end!
 
 Anyways, I spent wayyy more time and actually fully fleshed out the motion system after quite a bit of iteration!
 
-![[Pasted image 20260524180839.png]]
+![Pasted image 20260524180839.png](images/Pasted%20image%2020260524180839.png)
 
 Every single axis is leadscrews because they're the most space efficient, and I think it'll make all the axes really rigid which is super important for a flimsy, folding printer!  
 
@@ -182,15 +182,15 @@ Now that I had everything laid out, I can mount it to the plates. The main thing
 
 I first created this Nema 14 mount:
 
-![[Pasted image 20260528091132.png]]
+![Pasted image 20260528091132.png](images/Pasted%20image%2020260528091132.png)
 
 And then I created the Nema 11 mount:
 
-![[Pasted image 20260528091159.png]]
+![Pasted image 20260528091159.png](images/Pasted%20image%2020260528091159.png)
 
 After a bit of trial and error, I got everything nicely mounted on:
 
-![[Pasted image 20260528091228.png]]
+![Pasted image 20260528091228.png](images/Pasted%20image%2020260528091228.png)
 
 I still have the X/Y axes to rigid mount, but those require making mounts that'll also be fixed to the leadscrews which is going to be a whole thing to do, so I want to get everything nicely fitted before getting to that! 
 
