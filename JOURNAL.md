@@ -152,7 +152,7 @@ I also got a suggestion from this friend to maybe double shear my scissor lift a
 
 
 
-## Actually assembling the vision - 6 Hours
+## Actually assembling the vision - 5 Hours
 
 Now that I've created drawings of where I want to position the electronics, I need to functionally place them in to see if everything will work!
 
@@ -176,7 +176,7 @@ Every single axis is leadscrews because they're the most space efficient, and I 
 
 This is just a mockup of the whole things but it works in theory, and now I just have to properly attach everything! 
 
-## Properly Mounting Everything - 5 Hours
+## Properly Mounting Everything - 4 Hours
 
 Now that I had everything laid out, I can mount it to the plates. The main things I need to do is create brackets for the motors that will keep them rigidly mounted on a very small profile.
 
@@ -195,3 +195,23 @@ After a bit of trial and error, I got everything nicely mounted on:
 I still have the X/Y axes to rigid mount, but those require making mounts that'll also be fixed to the leadscrews which is going to be a whole thing to do, so I want to get everything nicely fitted before getting to that! 
 
 The vision is really coming together though, but this is still a pretty rough assembly that needs some tuning on the sizes and spacings.
+
+## Tuning, major improvements and spacers - 7 Hours
+
+I skipped school and go an insane amount of work done on the printer! 
+
+The first thing I needed to do, was mount the other X/Y axes to the top plate:
+
+![[Pasted image 20260529223416.png]]
+
+I decided on a little 3D printed block because I think it'll be rigid enough and it also lets me add the spacer directly onto it!
+
+Next, I added an end-stop to all the ends of the linear rails. This is just a small, 5mm printed block that sites on the end of each rail:
+
+![[Pasted image 20260529223528.png]]
+
+And then I did an absolute ton of fine-tuning during this process to get everything sitting nicely within the footprint. This took most of my time, but it came out really nicely:
+
+![[Pasted image 20260529223620.png]]
+
+It took me a ton of time to elegantly do this, but all of this is basically a finished product now. All I have left is to do the actual cross-cantilever aspect and to add on the extruder, and then I'll be onto doing the electronics! 
