@@ -214,4 +214,26 @@ And then I did an absolute ton of fine-tuning during this process to get everyth
 
 ![[Pasted image 20260529223620.png]]
 
-It took me a ton of time to elegantly do this, but all of this is basically a finished product now. All I have left is to do the actual cross-cantilever aspect and to add on the extruder, and then I'll be onto doing the electronics! 
+It took me a ton of time to elegantly do this, but all of this is basically a finished product now. 
+
+Next I figured out how I wanted the cross-cantilever to sit. I did a basic alignment which gave me the outline for how I'm actually going to attach it, but I'm going to leave this for now and onto more pressing matters:
+
+![[Pasted image 20260601205931.png]]
+
+All I have left is to do the actual cross-cantilever aspect and to add on the extruder, and then I'll be onto doing the electronics! 
+
+## Pause on the X/Y axes - 5 Hours
+
+Now before I actually finish up the XY axes, I need to figure out what motors I'm actually going to use. I spent many hours searching and comparing prices, and the best I found were 2 steppers that were identical to what I already had, the only difference was the leadscrews, and the length of the Nema 14, which were perfectly fine.
+
+My steppers have the final specs of :
+- Nema 11: 28x28mm, TR5x4, 100mm travel
+- Nema 14: 35x34mm, TR5x2, 150mm travel
+
+The nema 14 isn't ideal, but it works ya know. 
+
+Next, I wanted to mount the scissor lift to their respective steppers. This actually took longer than expected, because I had to fix some unconstrained sketches (silly me, don't do that lol), but I got a nice alignment after a lot of fine tuning:
+
+![[Pasted image 20260601210301.png]]
+
+And this honestly, isn't really ideal because it only gives me 80mm of travel, but I'll do some fine tuning later, and hopefully we can improve that! 
