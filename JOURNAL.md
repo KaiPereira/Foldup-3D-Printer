@@ -222,7 +222,7 @@ Next I figured out how I wanted the cross-cantilever to sit. I did a basic align
 
 All I have left is to do the actual cross-cantilever aspect and to add on the extruder, and then I'll be onto doing the electronics! 
 
-## Pause on the X/Y axes - 5 Hours
+## Pause on the X/Y axes - 4 Hours
 
 Now before I actually finish up the XY axes, I need to figure out what motors I'm actually going to use. I spent many hours searching and comparing prices, and the best I found were 2 steppers that were identical to what I already had, the only difference was the leadscrews, and the length of the Nema 14, which were perfectly fine.
 
@@ -237,3 +237,28 @@ Next, I wanted to mount the scissor lift to their respective steppers. This actu
 ![[Pasted image 20260601210301.png]]
 
 And this honestly, isn't really ideal because it only gives me 80mm of travel, but I'll do some fine tuning later, and hopefully we can improve that! 
+
+## Wrapping up the axes and starting on the extruder - 7 Hours
+
+Now that I've constrained the lead-screws to their respective stepper, I need to do the same thing but also constrain it to the XY axes. This if fairly complicated because each axis needs it's own special mount, and then they need to be fine-tuned in order to maximize build volume and make space for the toolhead.
+
+So the first mount I made, was this one for the X axis. It's fairly simple but also pretty complicated and I put a 3.5mm slab of PLA, to hole everything together essentially:
+
+![[Pasted image 20260603220525.png]]![[Pasted image 20260603220551.png]]
+
+Next, I needed to make the Y mount! This one was a bit simpler because it was above everything, so I could just have one slab that connected everything, but it's definitely not quite as rigid, so I might need to make some modifications later. 
+
+![[Pasted image 20260603220703.png]]
+
+Looks gorgeous but took me way too long to wrap my head around.
+
+Now I need to fit an extruder onto this though. I'm thinking that I probably want to mount it right in this little sandwich right here, because it basically stands as one of the corners to my bed, which is very convenient!
+
+![[Pasted image 20260603220829.png]]
+
+So I did a lot of exploring, testing different extruders to find the most compact one that could fit within this area, and the best I could come up with so far was this:
+
+![[Pasted image 20260603220916.png]]
+
+Definitely needs more exploring because this is clearly too tall, but it's not bad a start. This one's a ProtoXtruder V2 with a X1 hotend, and this is actually a pretty good combo, but still too large sadly. So I might have to explore a bowden extruder or something, but we'll save that for tomorrow!
+
