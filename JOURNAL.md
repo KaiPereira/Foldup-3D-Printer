@@ -202,23 +202,23 @@ I skipped school and go an insane amount of work done on the printer!
 
 The first thing I needed to do, was mount the other X/Y axes to the top plate:
 
-![[Pasted image 20260529223416.png]]
+![Pasted image 20260529223416.png](images/Pasted%20image%2020260529223416.png)
 
 I decided on a little 3D printed block because I think it'll be rigid enough and it also lets me add the spacer directly onto it!
 
 Next, I added an end-stop to all the ends of the linear rails. This is just a small, 5mm printed block that sites on the end of each rail:
 
-![[Pasted image 20260529223528.png]]
+![Pasted image 20260529223528.png](images/Pasted%20image%2020260529223528.png)
 
 And then I did an absolute ton of fine-tuning during this process to get everything sitting nicely within the footprint. This took most of my time, but it came out really nicely:
 
-![[Pasted image 20260529223620.png]]
+![Pasted image 20260529223620.png](images/Pasted%20image%2020260529223620.png)
 
 It took me a ton of time to elegantly do this, but all of this is basically a finished product now. 
 
 Next I figured out how I wanted the cross-cantilever to sit. I did a basic alignment which gave me the outline for how I'm actually going to attach it, but I'm going to leave this for now and onto more pressing matters:
 
-![[Pasted image 20260601205931.png]]
+![Pasted image 20260601205931.png](images/Pasted%20image%2020260601205931.png)
 
 All I have left is to do the actual cross-cantilever aspect and to add on the extruder, and then I'll be onto doing the electronics! 
 
@@ -234,7 +234,7 @@ The nema 14 isn't ideal, but it works ya know.
 
 Next, I wanted to mount the scissor lift to their respective steppers. This actually took longer than expected, because I had to fix some unconstrained sketches (silly me, don't do that lol), but I got a nice alignment after a lot of fine tuning:
 
-![[Pasted image 20260601210301.png]]
+![Pasted image 20260601210301.png](images/Pasted%20image%2020260601210301.png)
 
 And this honestly, isn't really ideal because it only gives me 80mm of travel, but I'll do some fine tuning later, and hopefully we can improve that! 
 
@@ -244,21 +244,21 @@ Now that I've constrained the lead-screws to their respective stepper, I need to
 
 So the first mount I made, was this one for the X axis. It's fairly simple but also pretty complicated and I put a 3.5mm slab of PLA, to hole everything together essentially:
 
-![[Pasted image 20260603220525.png]]![[Pasted image 20260603220551.png]]
+![Pasted image 20260603220525.png](images/Pasted%20image%2020260603220525.png)![Pasted image 20260603220551.png](images/Pasted%20image%2020260603220551.png)
 
 Next, I needed to make the Y mount! This one was a bit simpler because it was above everything, so I could just have one slab that connected everything, but it's definitely not quite as rigid, so I might need to make some modifications later. 
 
-![[Pasted image 20260603220703.png]]
+![Pasted image 20260603220703.png](images/Pasted%20image%2020260603220703.png)
 
 Looks gorgeous but took me way too long to wrap my head around.
 
 Now I need to fit an extruder onto this though. I'm thinking that I probably want to mount it right in this little sandwich right here, because it basically stands as one of the corners to my bed, which is very convenient!
 
-![[Pasted image 20260603220829.png]]
+![Pasted image 20260603220829.png](images/Pasted%20image%2020260603220829.png)
 
 So I did a lot of exploring, testing different extruders to find the most compact one that could fit within this area, and the best I could come up with so far was this:
 
-![[Pasted image 20260603220916.png]]
+![Pasted image 20260603220916.png](images/Pasted%20image%2020260603220916.png)
 
 Definitely needs more exploring because this is clearly too tall, but it's not bad a start. This one's a ProtoXtruder V2 with a X1 hotend, and this is actually a pretty good combo, but still too large sadly. So I might have to explore a bowden extruder or something, but we'll save that for tomorrow!
 
