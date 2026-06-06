@@ -262,3 +262,26 @@ So I did a lot of exploring, testing different extruders to find the most compac
 
 Definitely needs more exploring because this is clearly too tall, but it's not bad a start. This one's a ProtoXtruder V2 with a X1 hotend, and this is actually a pretty good combo, but still too large sadly. So I might have to explore a bowden extruder or something, but we'll save that for tomorrow!
 
+## Refining, electronics and extruder
+
+After I created all the leadscrew mounts, I did a lot of brainstorming on how I want the extruder to work. It's very important in a cross-cantilever, to minimize the weight on the end of the cantilever because it's going to have lots of flex, and even more the farther out it is which exponentially increases the forces on it. 
+
+Anyways, before I even think about the extruder some more, I know that I need to figure out where the electronics and bed are going to go. The bed is relatively compact in the area of the printer, so I decided to do that all, and constructed a layer of cork as a heat shield, and then the heater + thermistor, aluminum spreader, and then magnetic plate to stick the PEI sheet onto. 
+
+![[Pasted image 20260606022624.png]]
+
+Next, I wanted to get the actual height of how small this printer will be when folded up, so I modified the scissor lift to get the smallest printer height, which is over a centimeter smaller then before:
+
+![[Pasted image 20260606022730.png]]
+
+That gave me some problems with my previous mounts, because I had to modify stuff so it didn't hit the bottom Nema 14 here, so I redesigned those with some relative ease:
+
+![[Pasted image 20260606022816.png]]
+
+Now my idea is to fit all the electronics underneath the bed. I currently have about 62mm between the top of the bed and the top of the printer, so if my electronics take up 30mm of vertical space, then I'll need to make my hotend, just a mere 32mm, which is only possible with a bowden extruder if I'm being honest.
+
+So I currently have a good vision to actually do that and to put the electronics underneath, and then my bowden extruder in the corner of the printer, and then a really small hotend:
+
+![[Pasted image 20260606023045.png]]
+
+
