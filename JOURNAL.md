@@ -262,7 +262,7 @@ So I did a lot of exploring, testing different extruders to find the most compac
 
 Definitely needs more exploring because this is clearly too tall, but it's not bad a start. This one's a ProtoXtruder V2 with a X1 hotend, and this is actually a pretty good combo, but still too large sadly. So I might have to explore a bowden extruder or something, but we'll save that for tomorrow!
 
-## Refining, electronics and extruder
+## Refining, electronics and extruder - 10 Hours
 
 After I created all the leadscrew mounts, I did a lot of brainstorming on how I want the extruder to work. It's very important in a cross-cantilever, to minimize the weight on the end of the cantilever because it's going to have lots of flex, and even more the farther out it is which exponentially increases the forces on it. 
 
@@ -284,4 +284,28 @@ So I currently have a good vision to actually do that and to put the electronics
 
 ![[Pasted image 20260606023045.png]]
 
+So the first thing I decided to do, is re-work my bed so that I can fit the electronics underneath it. I decided to make my electronics architecture be an SKR Mini E3 V3.0 with DC barrel jack for input power so that it's nice and portable with no PSU! 
 
+![[Pasted image 20260608225958.png]]
+
+![[Pasted image 20260608230015.png]]
+
+The bed is countersunk into the standoffs using machine bolts, and I decided to leave enough space so that the hotend mount would just barely not be glazing the printer bed.
+
+Next, I need to work on the extruder. I was lucky and had barely enough space to squeeze in a Nema 11, and it actually gets pretty close torque to a pancake Nema 14 so it should be good enough to extrude PLA with some finesse:
+
+![[Pasted image 20260608230228.png]]
+
+It took me a WHILE and quite a few sketches to come up with an extruder design, but I've decided to use a planetary gearbox with thin, but long extruder gears because they weirdly fit in nicely into the design:
+
+![[Pasted image 20260608230333.png]]
+
+*To be adjusted*
+
+I made this nice little custom planetary gearbox (which has a very cool assembly >:) which gives me a 5.33:1 gear ratio, which should be good for getting the around 0.4 N-m of torque I need to extrude PLA:
+
+![[Pasted image 20260608230447.png]]
+
+And that's the basics of the extruder concept, finished! Now we can get onto finishing it up, and working on the hotend too.
+
+## Finishing up the custom extruder and hotend
