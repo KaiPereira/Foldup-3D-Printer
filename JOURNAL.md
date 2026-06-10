@@ -309,3 +309,11 @@ I made this nice little custom planetary gearbox (which has a very cool assembly
 And that's the basics of the extruder concept, finished! Now we can get onto finishing it up, and working on the hotend too.
 
 ## Finishing up the custom extruder and hotend
+
+Now the planetary gearbox actually fit decently, but if I'm being honest, there's not too much space left for the actual filament drive gears or I can't even put them in a nice spot. Most extruders don't use planetary gearboxes, and instead, just use spur gears to get their, so let's design a new extruder with gears. 
+
+I'm going to use all the parts from the HGX lite extruder and reference the step model of that extruder throughout my design too.
+
+![[Pasted image 20260609232351.png]]
+
+This gives me a much cleaner design that I can more easily customize, because I don't have a clunky planetary gear in my mechanism. It also has better access for the filament to travel through the whole mechanism so that I don't have a twisted PTFE tube!
