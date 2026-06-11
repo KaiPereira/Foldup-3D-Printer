@@ -314,7 +314,7 @@ Now the planetary gearbox actually fit decently, but if I'm being honest, there'
 
 I'm going to use all the parts from the HGX lite extruder and reference the step model of that extruder throughout my design too.
 
-![[Pasted image 20260609232351.png]]
+![Pasted image 20260609232351.png](images/Pasted%20image%2020260609232351.png)
 
 This gives me a much cleaner design that I can more easily customize, because I don't have a clunky planetary gear in my mechanism. It also has better access for the filament to travel through the whole mechanism so that I don't have a twisted PTFE tube!
 
@@ -322,10 +322,10 @@ Anyways, next I needed to essentially build off of this current design, to creat
 
 So after many hours, I came up with this basic, almost working design:
 
-![[Pasted image 20260610223402.png]]
+![Pasted image 20260610223402.png](images/Pasted%20image%2020260610223402.png)
 
 The only thing that this extruder is missing, is the PTFE connector fastened to the extruder, and then the path the filament will take. But everything is pretty much properly attached, albeit, pretty terribly.
 
 And it actually fits very tightly within our printer, but it fits nonetheless!
 
-![[Pasted image 20260610223549.png]]
+![Pasted image 20260610223549.png](images/Pasted%20image%2020260610223549.png)
