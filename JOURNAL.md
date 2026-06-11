@@ -317,3 +317,15 @@ I'm going to use all the parts from the HGX lite extruder and reference the step
 ![[Pasted image 20260609232351.png]]
 
 This gives me a much cleaner design that I can more easily customize, because I don't have a clunky planetary gear in my mechanism. It also has better access for the filament to travel through the whole mechanism so that I don't have a twisted PTFE tube!
+
+Anyways, next I needed to essentially build off of this current design, to create something more refined, with everything attached. Building an extruder is like building with lego, and you just keep on adding and cutting down stuff until you get something nice and refined.
+
+So after many hours, I came up with this basic, almost working design:
+
+![[Pasted image 20260610223402.png]]
+
+The only thing that this extruder is missing, is the PTFE connector fastened to the extruder, and then the path the filament will take. But everything is pretty much properly attached, albeit, pretty terribly.
+
+And it actually fits very tightly within our printer, but it fits nonetheless!
+
+![[Pasted image 20260610223549.png]]
