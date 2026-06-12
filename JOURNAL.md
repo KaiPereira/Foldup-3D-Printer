@@ -329,3 +329,19 @@ The only thing that this extruder is missing, is the PTFE connector fastened to 
 And it actually fits very tightly within our printer, but it fits nonetheless!
 
 ![Pasted image 20260610223549.png](images/Pasted%20image%2020260610223549.png)
+
+Next I needed to add the actual PTFE connector with it's grub screw and the tensioner screw to the design. This is quite tricky, because I essentially need to separate the extruder's top half into 2 additional parts so that you can adjust the  distance between these 2 parts to adjust the tension at the filament driver. 
+
+And after a lot of research, this is what my design looks like:
+
+![[Pasted image 20260611231017.png]]
+
+I also did a lot of minor modifications to the bottom and whatnot, but now I actually need to finish it off:
+
+![[Pasted image 20260611231112.png]]
+
+Here's how the extruder currently fits inside of the printer:
+
+![[Pasted image 20260611231142.png]]
+
+*Very precisely!*
