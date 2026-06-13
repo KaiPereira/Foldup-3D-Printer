@@ -334,14 +334,14 @@ Next I needed to add the actual PTFE connector with it's grub screw and the tens
 
 And after a lot of research, this is what my design looks like:
 
-![[Pasted image 20260611231017.png]]
+![Pasted image 20260611231017.png](images/Pasted%20image%2020260611231017.png)
 
 I also did a lot of minor modifications to the bottom and whatnot, but now I actually need to finish it off:
 
-![[Pasted image 20260611231112.png]]
+![Pasted image 20260611231112.png](images/Pasted%20image%2020260611231112.png)
 
 Here's how the extruder currently fits inside of the printer:
 
-![[Pasted image 20260611231142.png]]
+![Pasted image 20260611231142.png](images/Pasted%20image%2020260611231142.png)
 
 *Very precisely!*
