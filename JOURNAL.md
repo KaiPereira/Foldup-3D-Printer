@@ -345,3 +345,11 @@ Here's how the extruder currently fits inside of the printer:
 ![Pasted image 20260611231142.png](images/Pasted%20image%2020260611231142.png)
 
 *Very precisely!*
+
+Next, I need to add the output PTFE connector, and then fix everything together, polish up a little bit and then it'll be good! 
+
+So after a lot of procrastination, I got something pretty decent:
+
+![[Pasted image 20260614225722.png]]
+
+There's a lot of refining that still needs to happen, but some good progress is happening.
