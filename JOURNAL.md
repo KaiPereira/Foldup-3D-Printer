@@ -350,15 +350,15 @@ Next, I need to add the output PTFE connector, and then fix everything together,
 
 So after a lot of procrastination, I got something pretty decent:
 
-![[Pasted image 20260614225722.png]]
+![Pasted image 20260614225722.png](images/Pasted%20image%2020260614225722.png)
 
 There's a lot of refining that still needs to happen, but some good progress is happening.
 
 And then just like that, we have a finished extruder, albeit a terrible one:
 
-![[Pasted image 20260615225505.png]]
+![Pasted image 20260615225505.png](images/Pasted%20image%2020260615225505.png)
 
 It all fits nicely, so now I can move onto figuring out the hotend!
 
-![[Pasted image 20260615225555.png]]
+![Pasted image 20260615225555.png](images/Pasted%20image%2020260615225555.png)
 
