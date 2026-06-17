@@ -308,7 +308,7 @@ I made this nice little custom planetary gearbox (which has a very cool assembly
 
 And that's the basics of the extruder concept, finished! Now we can get onto finishing it up, and working on the hotend too.
 
-## Finishing up the custom extruder and hotend
+## Finishing up the custom extruder - 16 Hours
 
 Now the planetary gearbox actually fit decently, but if I'm being honest, there's not too much space left for the actual filament drive gears or I can't even put them in a nice spot. Most extruders don't use planetary gearboxes, and instead, just use spur gears to get their, so let's design a new extruder with gears. 
 
@@ -362,3 +362,16 @@ It all fits nicely, so now I can move onto figuring out the hotend!
 
 ![Pasted image 20260615225555.png](images/Pasted%20image%2020260615225555.png)
 
+## Finishing the hotend
+
+Now that I've finished the custom bowden extruder, I need to figure out what hotend I want to use.
+
+I have very little clearance for my hotend, so that means I need to pick my hotend very carefully.
+
+These are 4 extruders I decided to first test out:
+
+![[Pasted image 20260616222705.png]]
+
+All of these turned out to be too tall except for the mosquito hotend, and then also the [Deltaprint mini hotend](https://www.deltaprintr.com/product/mini-hotend/) , but these are quite expensive. One of my favorite options was the Phaetus Dragonfly BMS which is the blue one, and is quite small and also cheap, but it's still a bit too tall, but there's still a chance that I can alter the design to make it work.
+
+I've reached out to Slice Engineering to maybe get a free mosquito hotend, but I'm still looking at other options, like potentially making a custom extruder from parts from a normal one, by just bodging it a bit.
