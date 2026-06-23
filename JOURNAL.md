@@ -383,3 +383,5 @@ After a lot of deliberation, I've decided to just go with the positron or the fu
 The funssor hotend is my first choice to buy because it's cheaper, but the positron hotend would easily be better if I could get it sponsored. 
 
 And with that decision out of the way, I can get to actually designing the hotend mount!
+
+Before I do that though, I actually got some responses back from LDO motors and they said that they would sponsor my project with a positron hotend, and potentially some motors/extruder too, so I'll be designing around that hotend!
