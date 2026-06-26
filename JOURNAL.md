@@ -370,7 +370,7 @@ I have very little clearance for my hotend, so that means I need to pick my hote
 
 These are 4 extruders I decided to first test out:
 
-![[Pasted image 20260616222705.png]]
+![Pasted image 20260616222705.png](images/Pasted%20image%2020260616222705.png)
 
 All of these turned out to be too tall except for the mosquito hotend, and then also the [Deltaprint mini hotend](https://www.deltaprintr.com/product/mini-hotend/) , but these are quite expensive. One of my favorite options was the Phaetus Dragonfly BMS which is the blue one, and is quite small and also cheap, but it's still a bit too tall, but there's still a chance that I can alter the design to make it work.
 
@@ -378,7 +378,7 @@ I've reached out to Slice Engineering to maybe get a free mosquito hotend, but I
 
 After a lot of deliberation, I've decided to just go with the positron or the funssor, 90 degree hotends:
 
-![[Pasted image 20260621221831.png]]
+![Pasted image 20260621221831.png](images/Pasted%20image%2020260621221831.png)
 
 The funssor hotend is my first choice to buy because it's cheaper, but the positron hotend would easily be better if I could get it sponsored. 
 
@@ -388,7 +388,7 @@ Before I do that though, I actually got some responses back from LDO motors and 
 
 After a lot of finagling, I managed to fit the hotend in:
 
-![[Pasted image 20260625220852.png]]
+![Pasted image 20260625220852.png](images/Pasted%20image%2020260625220852.png)
 
 I needed to adjust all the mounts to allow the clearance underneath some of the linear rails so that I could fit it underneath, but it fits perfectly. 
 
