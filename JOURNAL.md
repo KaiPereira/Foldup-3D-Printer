@@ -385,3 +385,11 @@ The funssor hotend is my first choice to buy because it's cheaper, but the posit
 And with that decision out of the way, I can get to actually designing the hotend mount!
 
 Before I do that though, I actually got some responses back from LDO motors and they said that they would sponsor my project with a positron hotend, and potentially some motors/extruder too, so I'll be designing around that hotend!
+
+After a lot of finagling, I managed to fit the hotend in:
+
+![[Pasted image 20260625220852.png]]
+
+I needed to adjust all the mounts to allow the clearance underneath some of the linear rails so that I could fit it underneath, but it fits perfectly. 
+
+Now I just need to attach it on, and fix all the mounts, and then wrap up the BOM and then I'll be all done!
