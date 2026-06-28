@@ -1,4 +1,4 @@
-# Foldup 3D Printer
+# Foldup, scissor lift, 3D Printer
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/618be12e-8279-407f-aaf3-1fe1eca2d280" />
 
@@ -13,3 +13,9 @@ This is my foldup, scissor lift, cross-cantilever 3D printer for Open Sauce 2026
 - Fast and efficient positron hotend with a custom HGX Lite bowden extruder
 - Supports Marlin or Klipper firmware with the BTT SKR MINI E3 V3.0 motherboard
 - Looks insanely cool so you can flex at hackathons
+
+## Wiring
+
+The electronics are pretty simple for this project:
+
+<img width="1068" height="959" alt="image" src="https://github.com/user-attachments/assets/072d1161-c51d-4259-b2ac-b12402e4c62f" />
