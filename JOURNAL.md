@@ -362,7 +362,7 @@ It all fits nicely, so now I can move onto figuring out the hotend!
 
 ![Pasted image 20260615225555.png](images/Pasted%20image%2020260615225555.png)
 
-## Finishing the hotend
+## Finishing the hotend and wrapping up the project - 16 Hours
 
 Now that I've finished the custom bowden extruder, I need to figure out what hotend I want to use.
 
