@@ -32,7 +32,7 @@ The BOM isn't too complicated and it also includes some tools that are helpful f
 
 Assembling the board is fairly simple by referencing the [Onshape assembly](https://cad.onshape.com/documents/3a7b565130dc54a0f58628c0/w/db45ce09661f59e4e89ec29b/e/58f0074d6e4db55998381609?configuration=default&renderMode=0&uiState=6a406a14ea7b36fb18681a02).
 
-All the 3D printed parts and the entire STEP for the project are accessibly in the [CAD folder](/CAD) too. 
+All the 3D printed/aluminum parts and the entire STEP for the project are accessibly in the [CAD folder](/CAD) too. 
 
 ### Firmware
 
