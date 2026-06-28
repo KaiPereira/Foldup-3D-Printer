@@ -386,10 +386,28 @@ And with that decision out of the way, I can get to actually designing the hoten
 
 Before I do that though, I actually got some responses back from LDO motors and they said that they would sponsor my project with a positron hotend, and potentially some motors/extruder too, so I'll be designing around that hotend!
 
-After a lot of finagling, I managed to fit the hotend in:
-
-![Pasted image 20260625220852.png](images/Pasted%20image%2020260625220852.png)
-
 I needed to adjust all the mounts to allow the clearance underneath some of the linear rails so that I could fit it underneath, but it fits perfectly. 
 
 Now I just need to attach it on, and fix all the mounts, and then wrap up the BOM and then I'll be all done!
+
+The first thing I decided to tackle was the mechanical stuff:
+- I created the actual hotend mount and added the fans. I used a 3510 fan because it was the only one that fit in the form factor
+- I modified the X/Y leadscrew mounts so that they don't intersect other parts anymore and so that they also work and look better
+- Fully assembled everything and added the nuts and bolts
+
+![[Pasted image 20260627182820.png]]
+
+The printer is actually fully complete now, and I can move onto the BOM! I had been building out my BOM throughout the entire project, so it didn't take long to complete.
+
+I essentially just had to format and then compile all the prices, and that took me a couple hours:
+
+![[Pasted image 20260627182934.png]]
+
+I also included my sponsorships, and the whole projects is actually pretty good, coming in at around $455:
+
+![[Pasted image 20260627183001.png]]
+
+After organizing all the files in my repository and creating my readme, this project is officially done!
+
+![[Pasted image 20260627183031.png]]
+
