@@ -395,19 +395,19 @@ The first thing I decided to tackle was the mechanical stuff:
 - I modified the X/Y leadscrew mounts so that they don't intersect other parts anymore and so that they also work and look better
 - Fully assembled everything and added the nuts and bolts
 
-![[Pasted image 20260627182820.png]]
+![Pasted image 20260627182820.png](images/Pasted%20image%2020260627182820.png)
 
 The printer is actually fully complete now, and I can move onto the BOM! I had been building out my BOM throughout the entire project, so it didn't take long to complete.
 
 I essentially just had to format and then compile all the prices, and that took me a couple hours:
 
-![[Pasted image 20260627182934.png]]
+![Pasted image 20260627182934.png](images/Pasted%20image%2020260627182934.png)
 
 I also included my sponsorships, and the whole projects is actually pretty good, coming in at around $455:
 
-![[Pasted image 20260627183001.png]]
+![Pasted image 20260627183001.png](images/Pasted%20image%2020260627183001.png)
 
 After organizing all the files in my repository and creating my readme, this project is officially done!
 
-![[Pasted image 20260627183031.png]]
+![Pasted image 20260627183031.png](images/Pasted%20image%2020260627183031.png)
 
