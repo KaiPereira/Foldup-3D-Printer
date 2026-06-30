@@ -40,4 +40,4 @@ You can just run Marlin firmware for the entire printer. I've left some boilerpl
 
 ## Contributions
 
-Thanks so much to PCBWay for sponsoring the project and generously covering the cost of the CNCed parts and helping with many of my other projects and to LDO Motors for sending me a free Positron hotend and extruder! This project genuinely wouldn't be posisble without the help of these two amazing companies!
+Thanks so much to [PCBWay](https://www.pcbway.com/) for sponsoring the project and generously covering the cost of the CNCed parts and helping with many of my other projects and to [LDO Motors](https://ldomotors.com/) for sending me a free Positron hotend and extruder! This project genuinely wouldn't be posisble without the help of these two amazing companies!
