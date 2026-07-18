@@ -36,4 +36,4 @@ All the 3D printed/aluminum parts and the entire STEP for the project are access
 
 ### Firmware
 
-You can just run Marlin firmware for the entire printer. I've left some boilerplate in the [firmware folder](/firmware)!
+You can just run Klipper firmware for the entire printer. I've left some boilerplate in the [firmware folder](/firmware)!
