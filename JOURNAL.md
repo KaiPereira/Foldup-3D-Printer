@@ -411,3 +411,21 @@ After organizing all the files in my repository and creating my readme, this pro
 
 ![Pasted image 20260627183031.png](images/Pasted%20image%2020260627183031.png)
 
+# Building the printer
+
+## Day 1 - Basic prototyping
+
+I started the first day of building my printer with 3D printing a bunch of parts for the base of the printer, to get an idea of how everything would fit on. A couple immediate problems arose:
+
+ I got shipped the wrong stepper motors, nema 11 linear modules instead of Nema 14 modules. This was bad but also good, because i got to keep 4 linear modules, and was refunded $100 so I could rebuy the parts.
+ 
+The linear rails tolerance for the first hole was a bit off, so only some of them fit kind of nicely onto the plate. This is going to be a bit tricky to fix, but hopefully I can do a good job.
+
+The center of the scissor lift pivot used friction for the scissor lift to pivot around, which is a problem because this can cause the scissor lift to come apart:
+
+![[Pasted image 20260723192458.png]]
+
+So now, I have to:
+- Re-order the nema 14 steppers which will take 2 weeks to come
+- Get my linear rails nicely cut, in the future, I should just get these cut to size though
+- Fix the design for my scissor lift
