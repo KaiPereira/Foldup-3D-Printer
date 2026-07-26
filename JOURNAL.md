@@ -413,7 +413,7 @@ After organizing all the files in my repository and creating my readme, this pro
 
 # Building the printer
 
-## Day 1 - Basic prototyping
+## Day 1 - Scissor Arms - 7 Hours
 
 I started the first day of building my printer with 3D printing a bunch of parts for the base of the printer, to get an idea of how everything would fit on. A couple immediate problems arose:
 
@@ -429,3 +429,17 @@ So now, I have to:
 - Re-order the nema 14 steppers which will take 2 weeks to come
 - Get my linear rails nicely cut, in the future, I should just get these cut to size though
 - Fix the design for my scissor lift
+
+Fixing this issue was quite simple but needed a bit of prototyping, but essentially I just put 2 bearings and then put in axle to hold them together:
+
+![[Pasted image 20260725222024.png]]
+
+After doing this fix though, the bearings had quite a lot of mechanical play, so I needed to replace the bearings with some higher precision ones I had laying around after a hackathon (thank you so much outpost), but these bearings also didn't fit perfectly into the holes, so I've ordered some loctite to hold them better into place!
+
+So I have everything ordered, and I'm continuing with the build while waiting for the stuff to arrive, and I need to find a place to get my stuff cut!
+
+So lessons learned today:
+- Check the precision specs on your parts, and also buy preloaded parts to reduce mechanical play
+- Get linear rails and other stuff cut to size so you don't have to worry about it yourself
+- Proper tools are really important like loctite
+- Make sure separately moving parts aren't on a single moving element
