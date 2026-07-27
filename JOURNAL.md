@@ -423,7 +423,7 @@ The linear rails tolerance for the first hole was a bit off, so only some of the
 
 The center of the scissor lift pivot used friction for the scissor lift to pivot around, which is a problem because this can cause the scissor lift to come apart:
 
-![[Pasted image 20260723192458.png]]
+![Pasted image 20260723192458.png](images/Pasted%20image%2020260723192458.png)
 
 So now, I have to:
 - Re-order the nema 14 steppers which will take 2 weeks to come
@@ -432,7 +432,7 @@ So now, I have to:
 
 Fixing this issue was quite simple but needed a bit of prototyping, but essentially I just put 2 bearings and then put in axle to hold them together:
 
-![[Pasted image 20260725222024.png]]
+![Pasted image 20260725222024.png](images/Pasted%20image%2020260725222024.png)
 
 After doing this fix though, the bearings had quite a lot of mechanical play, so I needed to replace the bearings with some higher precision ones I had laying around after a hackathon (thank you so much outpost), but these bearings also didn't fit perfectly into the holes, so I've ordered some loctite to hold them better into place!
 
