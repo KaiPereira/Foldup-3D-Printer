@@ -443,3 +443,28 @@ So lessons learned today:
 - Get linear rails and other stuff cut to size so you don't have to worry about it yourself
 - Proper tools are really important like loctite
 - Make sure separately moving parts aren't on a single moving element
+
+## Finishing the scissor arms
+
+So after putting all the heatset inserts into the static scissor lift blocks, it was time to loctite all of the scissor arms.
+
+The first thing I learned is that if you ever design bigger stuff, leave a bit more room on the sides and behind a heatset insert, or else it'll probably melt and create some concaves like so:
+
+IMAGE
+
+Locking all of the bearings into the scissor arms wasn't too bad, but there were a couple things I should've done better:
+- Keeping a separate paper tower to wipe off the liquid
+- Not using so many pairs of gloves and instead just wiping them off on the paper towel
+- Making sure orientation is good before locking them, which somehow became a problem
+
+IMAGE
+
+Just small stuff, but overall it wasn't too bad.
+
+Next, I needed to prepare my linear rails for being cut. The first step is actually deciding how much to cut off each rail and where. Because my rails had bad tolerances, I took off a couple more mm than what I actually wanted on each rail to get make sure that they fit.
+
+Next, I needed to slide off the carriage for the rails. When your linear rail gets cut, there's lots of flakes and dust that come off and impact your carriages. So I 3D printed these custom linear rail holders to hold the carriages while they were being cut, so I didn't lose the balls they contained.
+
+While I was waiting on my rails to get cut, I assembled a bit more of the printer, like some printed bits, and a bit of the bed. 
+
+Another problem I came across, is that the motherboard is sitting on bare aluminum, so it's signals will get shorted if it's just lying on it. So I need to figure out some sort of adhesive or something to put on the base to prevent this, which shouldn't be too difficult, but it's a bit annoying.
