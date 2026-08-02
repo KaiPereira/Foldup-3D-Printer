@@ -468,3 +468,5 @@ Next, I needed to slide off the carriage for the rails. When your linear rail ge
 While I was waiting on my rails to get cut, I assembled a bit more of the printer, like some printed bits, and a bit of the bed. 
 
 Another problem I came across, is that the motherboard is sitting on bare aluminum, so it's signals will get shorted if it's just lying on it. So I need to figure out some sort of adhesive or something to put on the base to prevent this, which shouldn't be too difficult, but it's a bit annoying.
+
+So after all of this, I got my rails and leadscrew cut. I made a post on my local Reddit forum, and one of the makerspace people offered to do it for me, so I met up with them the next day, and got it done, which was really awesome! 
