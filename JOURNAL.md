@@ -470,3 +470,9 @@ While I was waiting on my rails to get cut, I assembled a bit more of the printe
 Another problem I came across, is that the motherboard is sitting on bare aluminum, so it's signals will get shorted if it's just lying on it. So I need to figure out some sort of adhesive or something to put on the base to prevent this, which shouldn't be too difficult, but it's a bit annoying.
 
 So after all of this, I got my rails and leadscrew cut. I made a post on my local Reddit forum, and one of the makerspace people offered to do it for me, so I met up with them the next day, and got it done, which was really awesome! 
+
+Next, I needed to clean the rails. I did a 3 step process:
+- Wipe out the swarf with Q-Tips
+- Blow compressed air through the linear rail grooves
+- Wipe with a microfiber cloth and 99% isopropyl so it didn't rust
+
