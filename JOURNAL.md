@@ -476,3 +476,9 @@ Next, I needed to clean the rails. I did a 3 step process:
 - Blow compressed air through the linear rail grooves
 - Wipe with a microfiber cloth and 99% isopropyl so it didn't rust
 
+I then mounted these rails onto my frame, which makes it look amazing!
+
+Next, I needed to cut a couple things myself though. I wish I could've gotten the makerspace guy to cut my leadscrews too, but they arrived a bit too late, so I needed to do it myself. A hacksaw doesn't work create for this type of stuff, so I instead opted to use my dremel, which I conveniently have! 
+
+The only cut-off disc I had was a reinforced carbon disc, but it actually worked pretty well. I just wrapped some tape around the thread, clamped the thread in with a wood voice, and then chopped away and polished with a sanding tip. 
+
