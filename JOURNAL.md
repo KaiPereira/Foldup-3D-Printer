@@ -486,4 +486,4 @@ So I had a lot of these submodules created, but now I needed to attach them all 
 
 After doing all of that, I simply assembled everything, and it looks pretty good so far! 
 
-![[Pasted image 20260813213310.png]]
+![Pasted image 20260813213310.png](images/Pasted%20image%2020260813213310.png)
