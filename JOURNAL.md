@@ -483,3 +483,7 @@ Next, I needed to cut a couple things myself though. I wish I could've gotten th
 The only cut-off disc I had was a reinforced carbon disc, but it actually worked pretty well. I just wrapped some tape around the thread, clamped the thread in with a wood voice, and then chopped away and polished with a sanding tip. 
 
 So I had a lot of these submodules created, but now I needed to attach them all to the frame. It was pretty simple, I just bolted them on, and the only problems I faced was that my Nema 11 motor mounts can't be bolted into the motors, because I can't physically squeeze a screw through, so I just need a short re-design!
+
+After doing all of that, I simply assembled everything, and it looks pretty good so far! 
+
+![[Pasted image 20260813213310.png]]
