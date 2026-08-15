@@ -448,16 +448,14 @@ So lessons learned today:
 
 So after putting all the heatset inserts into the static scissor lift blocks, it was time to loctite all of the scissor arms.
 
-The first thing I learned is that if you ever design bigger stuff, leave a bit more room on the sides and behind a heatset insert, or else it'll probably melt and create some concaves like so:
-
-IMAGE
+The first thing I learned is that if you ever design bigger stuff, leave a bit more room on the sides and behind a heatset insert, or else it'll probably melt and create some concaves.
 
 Locking all of the bearings into the scissor arms wasn't too bad, but there were a couple things I should've done better:
 - Keeping a separate paper tower to wipe off the liquid
 - Not using so many pairs of gloves and instead just wiping them off on the paper towel
 - Making sure orientation is good before locking them, which somehow became a problem
 
-IMAGE
+![[Pasted image 20260815195209.png]]
 
 Just small stuff, but overall it wasn't too bad.
 
@@ -471,10 +469,15 @@ Another problem I came across, is that the motherboard is sitting on bare alumin
 
 So after all of this, I got my rails and leadscrew cut. I made a post on my local Reddit forum, and one of the makerspace people offered to do it for me, so I met up with them the next day, and got it done, which was really awesome! 
 
+![[Pasted image 20260815194913.png]]
+
 Next, I needed to clean the rails. I did a 3 step process:
 - Wipe out the swarf with Q-Tips
 - Blow compressed air through the linear rail grooves
 - Wipe with a microfiber cloth and 99% isopropyl so it didn't rust
+
+![[IMG_2623.jpg]]
+
 
 I then mounted these rails onto my frame, which makes it look amazing!
 
@@ -483,6 +486,8 @@ Next, I needed to cut a couple things myself though. I wish I could've gotten th
 The only cut-off disc I had was a reinforced carbon disc, but it actually worked pretty well. I just wrapped some tape around the thread, clamped the thread in with a wood voice, and then chopped away and polished with a sanding tip. 
 
 So I had a lot of these submodules created, but now I needed to attach them all to the frame. It was pretty simple, I just bolted them on, and the only problems I faced was that my Nema 11 motor mounts can't be bolted into the motors, because I can't physically squeeze a screw through, so I just need a short re-design!
+
+![[Image from iOS 1.jpg]]
 
 After doing all of that, I simply assembled everything, and it looks pretty good so far! 
 
