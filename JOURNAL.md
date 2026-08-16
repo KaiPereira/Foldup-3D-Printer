@@ -455,7 +455,7 @@ Locking all of the bearings into the scissor arms wasn't too bad, but there were
 - Not using so many pairs of gloves and instead just wiping them off on the paper towel
 - Making sure orientation is good before locking them, which somehow became a problem
 
-![[Pasted image 20260815195209.png]]
+![Pasted image 20260815195209.png](images/Pasted%20image%2020260815195209.png)
 
 Just small stuff, but overall it wasn't too bad.
 
@@ -469,14 +469,14 @@ Another problem I came across, is that the motherboard is sitting on bare alumin
 
 So after all of this, I got my rails and leadscrew cut. I made a post on my local Reddit forum, and one of the makerspace people offered to do it for me, so I met up with them the next day, and got it done, which was really awesome! 
 
-![[Pasted image 20260815194913.png]]
+![Pasted image 20260815194913.png](images/Pasted%20image%2020260815194913.png)
 
 Next, I needed to clean the rails. I did a 3 step process:
 - Wipe out the swarf with Q-Tips
 - Blow compressed air through the linear rail grooves
 - Wipe with a microfiber cloth and 99% isopropyl so it didn't rust
 
-![[IMG_2623.jpg]]
+![IMG_2623.jpg](images/IMG_2623.jpg)
 
 
 I then mounted these rails onto my frame, which makes it look amazing!
@@ -487,7 +487,7 @@ The only cut-off disc I had was a reinforced carbon disc, but it actually worked
 
 So I had a lot of these submodules created, but now I needed to attach them all to the frame. It was pretty simple, I just bolted them on, and the only problems I faced was that my Nema 11 motor mounts can't be bolted into the motors, because I can't physically squeeze a screw through, so I just need a short re-design!
 
-![[Image from iOS 1.jpg]]
+![Image from iOS 1.jpg](images/Image%20from%20iOS%201.jpg)
 
 After doing all of that, I simply assembled everything, and it looks pretty good so far! 
 
